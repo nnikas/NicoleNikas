@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Nicole Nikas' Page
 
-You can use the [editor on GitHub](https://github.com/nnikas/personalwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey, I'm Nicole, I graduated with a Bachelor of Science in Engineering Physics with a focus in Electrical Engineering, and a minor in Computer Science.  I currently support applications at Kaiser Permanente as a Software Engineer for TCS.
+ 
+I am looking for opportunities that will teach me more about the different stages of developing ideas into products. I want to move out of the role of supporting, and into the role of developing, while maintaining the same problem solving mindset that I have in my current role. Ultimately my goal is to grow with a team and contribute to a product I can be proud of. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### About My Position at Kaiser
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
