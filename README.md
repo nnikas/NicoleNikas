@@ -1,4 +1,6 @@
-## Nicole Nikas' Page
+[Resume] <https://nnikas.github.io/personalwebsite/resume.html> | Contact | Portfolio
+------------ | -------------
+## Welcome to My Page
 
 Hey, I'm Nicole, I graduated with a Bachelor of Science in Engineering Physics with a focus in Electrical Engineering, and a minor in Computer Science.  I currently support applications at Kaiser Permanente as a Software Engineer for TCS.
  
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Headshot](https://github.com/nnikas/personalwebsite/Headshot.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
